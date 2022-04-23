@@ -1,0 +1,12 @@
+.text {
+  color: rgb(150, 42, 67);
+  font-family: consolas;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 30%;
+}
+body {
+  background-image: url(https://img4.goodfon.ru/wallpaper/nbig/f/7e/abstraktsiia-linii-rozovyi-belyi.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
